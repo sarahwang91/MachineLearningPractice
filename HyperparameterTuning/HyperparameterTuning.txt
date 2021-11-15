@@ -1,0 +1,9 @@
+Hyperparameter tuning of classifiers using cross-validation
+Getting the best parameters after tuning and building new classifiers using them
+Comparing and evaluating models using different criteria (e.g. accuracy, precision, recall, F1-score)
+
+
+Scikit Learn documentation on hyperparameter tuning
+https://scikit-learn.org/stable/modules/grid_search.html
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html
+https://scikit-optimize.github.io/stable/modules/generated/skopt.BayesSearchCV.html
