@@ -1,1 +1,5 @@
+Use of a technique to handle imbalanced data - SMOTE
+Ensemble predictions (stacking) using different types of prediction models
 
+Data: Kaggle -- Homesite Quote Conversion
+https://www.kaggle.com/c/homesite-quote-conversion
