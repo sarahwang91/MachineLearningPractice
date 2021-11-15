@@ -3,3 +3,22 @@ Ensemble predictions (stacking) using different types of prediction models
 
 Data: Kaggle -- Homesite Quote Conversion
 https://www.kaggle.com/c/homesite-quote-conversion
+
+
+Classification methods in this practice
+1. Multilayer Perceptron 
+2. Support Vector Machines
+3. Decision Tree
+4. Random Forest
+5. K-Nearest Neighbors
+
+
+
+Documentation:
+https://imbalanced-learn.org/dev/references/generated/imblearn.over_sampling.SMOTE.html
+https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html
+https://scikit-learn.org/stable/modules/svm.html
+https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+
